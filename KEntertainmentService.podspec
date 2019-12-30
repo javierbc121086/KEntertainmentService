@@ -41,4 +41,4 @@ end
 ## Release New Pod ##
 # git tag -a 0.0.1 -m "Pod V0.0.1"
 # git push --tags
-# pod repo push KEntertainmentServiceSpec KEntertainmentService.podspec --allow-warnings --sources='https://github.com/CocoaPods/Specs.git,https://gitlab.com/GonetGrupo/iOS/Dependencies/Spects/GNNetworkServicesSpec.git,https://gitlab.com/GonetGrupo/iOS/Dependencies/Spects/GNSwissRazorSpec.git,git@github.com:javierbc121086/RPEntertainmentDomainSpec.git' --private --verbose
+# pod repo push KEntertainmentServiceSpec KEntertainmentService.podspec --allow-warnings --sources='https://github.com/CocoaPods/Specs.git,git@gitlab.com:GonetGrupo/iOS/Dependencies/Spects/GNNetworkServicesSpec.git,git@gitlab.com:GonetGrupo/iOS/Dependencies/Spects/GNSwissRazorSpec.git,git@github.com:javierbc121086/KEntertainmentDomainSpec.git' --private --verbose
