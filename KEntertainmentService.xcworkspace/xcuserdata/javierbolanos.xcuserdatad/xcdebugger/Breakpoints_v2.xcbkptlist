@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18D26618-939A-4D3D-90D8-7648B5EF79FC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11E1BC61-C59C-4996-BC8B-C21E05C6D762"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEntertainmentService/Implement/KMovieService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "parseJson(uniqueIdentifierFlow:rawDic:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FED29FF-64A2-479F-9C60-D2829A7C2BE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEntertainmentService/Implement/KMovieService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "parseJson(uniqueIdentifierFlow:rawDic:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3FED29FF-64A2-479F-9C60-D2829A7C2BE0 - 55ca77fb11b7929e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KEntertainmentService.KMovieService.parseJson(uniqueIdentifierFlow: Swift.Int, rawDic: __C.NSDictionary) -&gt; ()"
+                  moduleName = "KEntertainmentService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javierbolanos/Proyectos/iOS/Free/Kavak/Project/Dependencies/KEntertainmentService/KEntertainmentService/Implement/KMovieService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1155">
+               </Location>
+               <Location
+                  uuid = "3FED29FF-64A2-479F-9C60-D2829A7C2BE0 - 5bdac2d11a348111"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (KEntertainmentService.KMovieEntity) -&gt; () in KEntertainmentService.KMovieService.parseJson(uniqueIdentifierFlow: Swift.Int, rawDic: __C.NSDictionary) -&gt; ()"
+                  moduleName = "KEntertainmentService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/javierbolanos/Proyectos/iOS/Free/Kavak/Project/Dependencies/KEntertainmentService/KEntertainmentService/Implement/KMovieService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E8D53A-4F4B-4245-9A6E-A18BC278A8EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEntertainmentService/Implement/KMovieService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "parseJson(uniqueIdentifierFlow:rawDic:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1385AB1C-8A17-4028-84BF-DAA55012578A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEntertainmentService/Implement/KMovieService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "parseJson(uniqueIdentifierFlow:rawDic:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "KMovieService.parseJson(uniqueIdentifierFlow:rawDic:):KMovieService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "KMovieServiceTest.dataResponseService(response:type:):KMovieServiceTest.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

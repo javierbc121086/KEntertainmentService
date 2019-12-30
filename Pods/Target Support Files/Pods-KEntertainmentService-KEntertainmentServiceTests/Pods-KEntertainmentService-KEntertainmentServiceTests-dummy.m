@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_KEntertainmentService_KEntertainmentServiceTests : NSObject
+@end
+@implementation PodsDummy_Pods_KEntertainmentService_KEntertainmentServiceTests
+@end

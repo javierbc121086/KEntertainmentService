@@ -1,0 +1,6 @@
+framework module Pods_KEntertainmentService {
+  umbrella header "Pods-KEntertainmentService-umbrella.h"
+
+  export *
+  module * { export * }
+}
