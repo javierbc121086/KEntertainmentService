@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "KEntertainmentService"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Dependencia encargada de contener la definición de los servicios Kavak Entretainment"
 
   spec.description  = <<-DESC
@@ -39,6 +39,6 @@ Pod::Spec.new do |spec|
 end
 
 ## Release New Pod ##
-# git tag -a 0.0.1 -m "Pod V0.0.1"
+# git tag -a 0.0.2 -m "Pod V0.0.2"
 # git push --tags
 # pod repo push KEntertainmentServiceSpec KEntertainmentService.podspec --allow-warnings --sources='https://github.com/CocoaPods/Specs.git,git@gitlab.com:GonetGrupo/iOS/Dependencies/Spects/GNNetworkServicesSpec.git,git@gitlab.com:GonetGrupo/iOS/Dependencies/Spects/GNSwissRazorSpec.git,git@github.com:javierbc121086/KEntertainmentDomainSpec.git' --private --verbose
